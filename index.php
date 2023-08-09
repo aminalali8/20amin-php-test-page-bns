@@ -1,6 +1,6 @@
 <?php
 
-$var = "test string"
+$var = "test string123"
 
 ?>
 <html> 
