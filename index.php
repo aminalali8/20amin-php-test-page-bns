@@ -1,6 +1,6 @@
 <?php
 
-$var = "just test string 123"
+$var = "Start Trek Rules!"
 
 ?>
 <html> 
